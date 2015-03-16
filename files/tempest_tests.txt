@@ -49,7 +49,6 @@ tempest.api.compute.admin.test_flavors.FlavorsAdminTestJSON.test_create_flavor_w
 tempest.api.compute.admin.test_flavors.FlavorsAdminTestJSON.test_create_flavor_with_none_id[gate]
 tempest.api.compute.admin.test_flavors.FlavorsAdminTestJSON.test_create_flavor_with_uuid_id[gate]
 tempest.api.compute.admin.test_flavors.FlavorsAdminTestJSON.test_create_list_flavor_without_extra_data[gate]
-tempest.api.compute.admin.test_flavors.FlavorsAdminTestJSON.test_create_server_with_non_public_flavor[gate]
 tempest.api.compute.admin.test_flavors.FlavorsAdminTestJSON.test_is_public_string_variations[gate]
 tempest.api.compute.admin.test_flavors.FlavorsAdminTestJSON.test_list_non_public_flavor[gate]
 tempest.api.compute.admin.test_flavors.FlavorsAdminTestJSON.test_list_public_flavor_with_other_user[gate]
